@@ -1,0 +1,13 @@
+{
+  "name": "killable_docker_demo_app",
+  "version": "1.0.0",
+  "description": "demo of a service that goes down",
+  "author": "Jon Rahoi <jrahoi@ten-x.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
